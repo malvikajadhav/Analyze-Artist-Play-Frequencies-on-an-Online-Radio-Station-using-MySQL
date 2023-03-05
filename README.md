@@ -13,4 +13,10 @@ Calculate number of days since each artist was added to the playlist and number 
 
 ![image](https://user-images.githubusercontent.com/20522169/222986116-23edbb59-52d2-4d8c-a31e-7215ad84178e.png)
 
+Computing Top and bottom 20 artists with the help of average daily plays count:
+Bottom 20:
+![image](https://user-images.githubusercontent.com/20522169/222988961-b53add47-05e0-45a9-b93e-6bedc581d598.png)
+
+Top 20:
+![image](https://user-images.githubusercontent.com/20522169/222988987-8dbdec86-1a05-4264-9a84-8a001ec6e1fd.png)
 
